@@ -1,2 +1,2 @@
 # checks
-checks for check50 and submit50
+check50 and submit50
